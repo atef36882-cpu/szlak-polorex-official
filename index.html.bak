@@ -1,0 +1,1163 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Szlak Polorex — Inteligentna platforma inwestycyjna AI | 2026</title>
+<meta name="google-site-verification" content="rTDmxbmfaciPz9r3c67DISk-a5Mg7D82PAtwMZnSLBc" />
+<meta name="description" content=" Szlak Polorex to algorytmiczna platforma inwestycyjna oparta na AI. Zarabiaj od 1000 zł dziennie bez wiedzy o giełdzie. Rejestracja bezpłatna, wypłata w 24h.">
+<meta name="robots" content="index, follow">
+<meta name="author" content=" Szlak Polorex">
+<link rel="canonical" href="https://nienex-finyx.org/">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%230a1628'/><polyline points='6,22 12,14 17,18 26,8' fill='none' stroke='%233b82f6' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/><polyline points='21,8 26,8 26,13' fill='none' stroke='%233b82f6' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<meta property="og:title" content=" Szlak Polorex — Inteligentna platforma inwestycyjna AI">
+<meta property="og:description" content="Algorytm AI inwestuje za Ciebie. Zarabiaj od 1000 zł dziennie bez wiedzy o giełdzie.">
+<meta property="og:url" content="https://nienex-finyx.org/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pl_PL">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://nienex-finyx.org/#organization",
+      "name": " Szlak Polorex",
+      "url": "https://nienex-finyx.org/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://nienex-finyx.org/logo.svg"
+      },
+      "description": "Algorytmiczna platforma inwestycyjna oparta na sztucznej inteligencji dla polskich inwestorów indywidualnych.",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Poland"
+      },
+      "availableLanguage": "Polish",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "availableLanguage": "Polish",
+        "hoursAvailable": "Mo-Su 00:00-24:00"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://nienex-finyx.org/#website",
+      "url": "https://nienex-finyx.org/",
+      "name": " Szlak Polorex",
+      "publisher": { "@id": "https://nienex-finyx.org/#organization" },
+      "inLanguage": "pl-PL"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://nienex-finyx.org/#webpage",
+      "url": "https://nienex-finyx.org/",
+      "name": " Szlak Polorex — Inteligentna platforma inwestycyjna AI | Zarabiaj od 1000 zł dziennie",
+      "description": " Szlak Polorex to algorytmiczna platforma inwestycyjna oparta na AI. Zarabiaj od 1000 zł dziennie bez wiedzy o giełdzie. Rejestracja bezpłatna, wypłata w 24h.",
+      "isPartOf": { "@id": "https://nienex-finyx.org/#website" },
+      "about": { "@id": "https://nienex-finyx.org/#organization" },
+      "inLanguage": "pl-PL"
+    },
+    {
+      "@type": "FinancialService",
+      "@id": "https://nienex-finyx.org/#service",
+      "name": " Szlak Polorex — Platforma Inwestycyjna AI",
+      "provider": { "@id": "https://nienex-finyx.org/#organization" },
+      "description": "Automatyczne inwestowanie oparte na algorytmie AI. System analizuje rynki i realizuje transakcje 24/7 bez udziału użytkownika.",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Poland"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Konta inwestycyjne",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Konto podstawowe",
+            "description": "Bezpłatna rejestracja, algorytm AI, konto demo, panel w czasie rzeczywistym, wsparcie 24/7 po polsku, wypłata w 24h",
+            "price": "0",
+            "priceCurrency": "PLN"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://nienex-finyx.org/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Czy muszę znać się na inwestowaniu lub giełdzie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zupełnie nie. Platforma działa na zasadzie ustaw i zapomnij — wybierasz jeden z trzech profili ryzyka, zasilasz konto i algorytm przejmuje całą pracę. Konto demo pozwala obserwować każdą decyzję systemu przez dowolny czas, zanim zdecydujesz się na prawdziwe pieniądze."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Jak i kiedy mogę wypłacić pieniądze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zlecasz wypłatę z panelu jednym kliknięciem — o dowolnej porze, w dowolnym dniu tygodnia. Nie ma minimalnej kwoty wypłaty, opłat za wypłatę ani okresu zamrożenia środków. Przelew trafia na konto bankowe w ciągu jednej doby roboczej."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy są jakieś ukryte opłaty lub prowizje?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jedyna opłata to mały procent od faktycznie wygenerowanego zysku — potrącany automatycznie dopiero po zarobku, nigdy z góry. Konto, rejestracja i konto demo są bezpłatne. Wpłata i wypłata są bezpłatne. Jeśli algorytm nie wypracuje zysku, nie płacisz absolutnie nic."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kiedy zobaczę pierwsze wyniki?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zaraz po zaksięgowaniu pierwszej wpłaty system startuje i realizuje pierwsze transakcje — zwykle jeszcze tego samego dnia. W panelu widzisz każdą operację na żywo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy mogę stracić zainwestowane pieniądze?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak — żaden algorytm nie gwarantuje zysku. Rynki finansowe są z natury zmienne. System stosuje automatyczne stop-lossy które ograniczają potencjalne straty, ale nie eliminują ryzyka całkowicie. Wpłacaj tylko tyle ile możesz stracić bez uszczerbku dla codziennego budżetu."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Czy mogę skontaktować się z prawdziwą osobą?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tak — zawsze. Trzy kanały kontaktu: telefon, czat i e-mail, obsługiwane przez ludzi całą dobę, 365 dni w roku. Średni czas odpowiedzi przez czat to kilka minut. Przez telefon odbieramy natychmiast."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "AggregateRating",
+      "itemReviewed": { "@id": "https://nienex-finyx.org/#service" },
+      "ratingValue": "4.8",
+      "bestRating": "5",
+      "worstRating": "1",
+      "ratingCount": "1240",
+      "reviewCount": "1240"
+    },
+    {
+      "@type": "Review",
+      "itemReviewed": { "@id": "https://nienex-finyx.org/#service" },
+      "author": { "@type": "Person", "name": "Leszek Bąkowski" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "reviewBody": "Trzydzieści lat przepracowałem w kontrolingu. Przed wpłatą poprosiłem o pełną dokumentację kosztową i sprawdziłem warunki wypłaty punkt po punkcie. Dziś jestem tu szesnasty miesiąc i żałuję tylko że nie zacząłem wcześniej."
+    },
+    {
+      "@type": "Review",
+      "itemReviewed": { "@id": "https://nienex-finyx.org/#service" },
+      "author": { "@type": "Person", "name": "Aleksandra Olejnik" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "reviewBody": "W farmacji jesteś nauczona żeby nigdy nie podejmować decyzji bez danych. Miesiąc na koncie demo, czytanie regulaminu z lupą, trzy rozmowy z supportem z listą pytań — i dopiero wpłata. Platforma odpowiedziała na każde pytanie uczciwie."
+    }
+  ]
+}
+</script>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800&family=Barlow:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#070e1a;
+  --bg2:#0a1628;
+  --bg3:#0d1e38;
+  --panel:#0f2244;
+  --b:rgba(80,140,255,.12);
+  --b2:rgba(80,140,255,.22);
+  --t:#d8e8ff;
+  --t2:#7a9cc8;
+  --t3:#344e72;
+  --c1:#3b82f6;
+  --c2:#1d4ed8;
+  --c3:#1e3a7a;
+  --gn:#22d87a;
+  --gnb:rgba(34,216,122,.15);
+  --rd:#ef4444;
+  --gold:#f59e0b;
+  --mono:'JetBrains Mono',monospace;
+  --cond:'Barlow Condensed',sans-serif;
+  --body:'Barlow',sans-serif;
+}
+html{scroll-behavior:smooth}
+body{
+  font-family:var(--body);background:var(--bg);
+  color:var(--t);overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* ── NAV ── */
+nav{
+  position:fixed;top:0;left:0;right:0;z-index:500;
+  height:56px;background:rgba(7,14,26,.96);
+  backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--b);
+  display:flex;align-items:center;gap:0;
+}
+.nav-brand{
+  display:flex;align-items:center;gap:0;
+  padding:0 24px;height:100%;
+  border-right:1px solid var(--b);text-decoration:none;
+  flex-shrink:0;
+}
+.nav-icon{
+  width:28px;height:28px;background:var(--c1);
+  display:flex;align-items:center;justify-content:center;
+  margin-right:10px;flex-shrink:0;
+}
+.nav-icon svg{color:#fff}
+.nav-name{
+  font-family:var(--cond);font-size:15px;font-weight:700;
+  color:var(--t);letter-spacing:.5px;text-transform:uppercase;
+}
+.nav-name span{color:var(--c1)}
+.nav-tag{
+  font-family:var(--mono);font-size:9px;color:var(--t3);
+  letter-spacing:.5px;margin-left:10px;padding-left:10px;
+  border-left:1px solid var(--b);
+}
+.nav-links{display:flex;gap:0;margin-left:auto}
+.nav-links a{
+  font-family:var(--body);font-size:12px;font-weight:500;
+  color:var(--t3);text-decoration:none;
+  padding:0 18px;height:56px;display:flex;align-items:center;
+  border-left:1px solid var(--b);
+  transition:color .15s,background .15s;letter-spacing:.3px;
+}
+.nav-links a:hover{color:var(--t);background:rgba(59,130,246,.06)}
+.nav-cta{
+  font-family:var(--cond);font-size:13px;font-weight:700;
+  color:#fff;background:var(--c1);
+  padding:0 24px;height:56px;display:flex;align-items:center;
+  text-decoration:none;letter-spacing:.8px;text-transform:uppercase;
+  border-left:1px solid var(--b);
+  transition:background .2s;flex-shrink:0;
+}
+.nav-cta:hover{background:var(--c2)}
+
+/* ── STATUS BAR ── */
+.statusbar{
+  margin-top:56px;background:var(--bg2);
+  border-bottom:1px solid var(--b);
+  display:flex;align-items:stretch;
+  overflow:hidden;position:relative;z-index:10;
+}
+.sb-live{
+  display:flex;align-items:center;gap:8px;
+  padding:0 20px;border-right:1px solid var(--b);
+  flex-shrink:0;
+  font-family:var(--mono);font-size:10px;color:var(--t3);
+  letter-spacing:.5px;text-transform:uppercase;
+}
+.sb-live-dot{
+  width:6px;height:6px;border-radius:50%;background:var(--gn);
+  box-shadow:0 0 6px var(--gn);animation:pulse 2s ease infinite;
+}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+.ticker-inner{overflow:hidden;flex:1;padding:7px 0}
+.ticker-inner::before,.ticker-inner::after{
+  content:'';position:absolute;top:56px;bottom:0;width:60px;z-index:2;pointer-events:none;
+}
+.ticker-inner::before{left:88px;background:linear-gradient(90deg,var(--bg2),transparent)}
+.ticker-inner::after{right:0;background:linear-gradient(-90deg,var(--bg2),transparent)}
+.t-track{display:flex;white-space:nowrap;animation:roll 55s linear infinite}
+@keyframes roll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.ti{
+  display:inline-flex;align-items:center;gap:7px;
+  padding:0 20px;
+  font-family:var(--mono);font-size:11px;
+  color:var(--t3);border-right:1px solid var(--b);
+}
+.ti b{color:var(--t2);font-weight:500;font-size:10px}
+.t-up{color:var(--gn);font-weight:500}
+.t-dn{color:var(--rd);font-weight:500}
+.tdot{width:4px;height:4px;border-radius:50%;flex-shrink:0}
+.tdot.up{background:var(--gn)}
+.tdot.dn{background:var(--rd)}
+
+/* ── HERO ── */
+.hero{
+  display:grid;grid-template-columns:1fr 480px;
+  min-height:calc(100vh - 88px);
+  border-bottom:1px solid var(--b);
+}
+.hero-left{
+  padding:72px 56px;
+  display:flex;flex-direction:column;justify-content:center;
+  border-right:1px solid var(--b);
+  position:relative;
+  overflow:hidden;
+}
+/* Blueprint grid bg */
+.hero-left::before{
+  content:'';position:absolute;inset:0;
+  background-image:
+    linear-gradient(rgba(59,130,246,.04) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(59,130,246,.04) 1px,transparent 1px);
+  background-size:40px 40px;
+}
+.hero-left::after{
+  content:'';position:absolute;
+  top:-100px;right:-100px;
+  width:500px;height:500px;
+  background:radial-gradient(circle,rgba(59,130,246,.07) 0%,transparent 65%);
+}
+.hero-left > *{position:relative;z-index:1}
+.h-tag{
+  display:inline-flex;align-items:center;gap:8px;
+  font-family:var(--mono);font-size:10px;font-weight:500;
+  color:var(--c1);letter-spacing:1px;text-transform:uppercase;
+  background:rgba(59,130,246,.08);border:1px solid rgba(59,130,246,.2);
+  padding:5px 12px;margin-bottom:32px;width:fit-content;
+}
+.h-tag-dot{
+  width:5px;height:5px;border-radius:50%;background:var(--gn);
+  box-shadow:0 0 5px var(--gn);animation:pulse 2s ease infinite;
+}
+h1{
+  font-family:var(--cond);
+  font-size:clamp(52px,6.5vw,80px);
+  font-weight:800;line-height:.95;
+  letter-spacing:-1px;color:var(--t);
+  margin-bottom:24px;text-transform:uppercase;
+}
+h1 .dim{color:var(--t3);font-weight:400}
+h1 .hi{
+  color:var(--c1);
+}
+.hero-lead{
+  font-size:16px;color:var(--t2);line-height:1.75;
+  max-width:520px;margin-bottom:40px;font-weight:300;
+}
+/* Data readout strip */
+.data-strip{
+  display:flex;gap:0;border:1px solid var(--b);
+  margin-bottom:36px;background:var(--bg2);
+}
+.ds{
+  padding:16px 22px;border-right:1px solid var(--b);flex:1;
+}
+.ds:last-child{border-right:none}
+.ds-label{
+  font-family:var(--mono);font-size:9px;color:var(--t3);
+  letter-spacing:1px;text-transform:uppercase;margin-bottom:6px;
+}
+.ds-val{
+  font-family:var(--mono);font-size:20px;font-weight:500;
+  color:var(--c1);letter-spacing:-.5px;line-height:1;
+}
+.ds-val.gn{color:var(--gn)}
+.hero-chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{
+  display:inline-flex;align-items:center;gap:6px;
+  background:rgba(255,255,255,.03);border:1px solid var(--b);
+  padding:7px 13px;font-family:var(--mono);font-size:10px;
+  color:var(--t2);letter-spacing:.3px;
+}
+.chip svg{color:var(--gn);flex-shrink:0}
+
+/* ── FORM ── */
+.hero-right{
+  background:var(--bg2);
+  padding:56px 44px;
+  display:flex;flex-direction:column;justify-content:center;
+  border-left:none;
+}
+.form-header{
+  border-bottom:1px solid var(--b);
+  padding-bottom:20px;margin-bottom:24px;
+}
+.form-ref{
+  font-family:var(--mono);font-size:9px;
+  color:var(--t3);letter-spacing:1px;
+  text-transform:uppercase;margin-bottom:10px;
+  display:flex;align-items:center;gap:8px;
+}
+.form-ref::before{content:'REF://';color:var(--c1)}
+.form-header h2{
+  font-family:var(--cond);font-size:22px;font-weight:700;
+  color:var(--t);letter-spacing:.3px;text-transform:uppercase;
+  margin-bottom:4px;
+}
+.form-header p{font-size:13px;color:var(--t3);font-weight:300}
+.f2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.fg{margin-bottom:10px}
+.fg label{
+  display:block;font-family:var(--mono);font-size:9px;
+  letter-spacing:1.2px;text-transform:uppercase;
+  color:var(--t3);margin-bottom:5px;
+}
+.fg input{
+  width:100%;padding:12px 14px;
+  background:rgba(255,255,255,.04);
+  border:1px solid var(--b2);
+  color:var(--t);font-family:var(--body);font-size:14px;
+  outline:none;
+  transition:border-color .2s,background .2s,box-shadow .2s;
+}
+.fg input:focus{
+  border-color:var(--c1);
+  background:rgba(59,130,246,.06);
+  box-shadow:0 0 0 3px rgba(59,130,246,.08);
+}
+.fg input::placeholder{color:var(--t3)}
+.btn-submit{
+  width:100%;padding:15px;border:none;
+  background:var(--c1);color:#fff;
+  font-family:var(--cond);font-size:14px;font-weight:700;
+  letter-spacing:1px;text-transform:uppercase;
+  cursor:pointer;margin-top:6px;
+  transition:background .2s;
+  box-shadow:0 4px 20px rgba(59,130,246,.3);
+}
+.btn-submit:hover{background:var(--c2)}
+.form-note{
+  font-family:var(--mono);font-size:9px;
+  color:var(--t3);margin-top:12px;
+  text-align:center;line-height:1.7;
+}
+.form-note a{color:var(--t2);text-decoration:underline}
+
+/* ── SECTIONS ── */
+.sec{max-width:1300px;margin:0 auto;padding:80px 56px;position:relative;z-index:10}
+.sec-stripe{background:var(--bg2);border-top:1px solid var(--b);border-bottom:1px solid var(--b)}
+
+/* Section header — terminal style */
+.sh{
+  display:flex;align-items:center;gap:12px;
+  margin-bottom:52px;
+  border-bottom:1px solid var(--b);padding-bottom:16px;
+}
+.sh-id{
+  font-family:var(--mono);font-size:10px;color:var(--c1);
+  letter-spacing:1px;background:rgba(59,130,246,.1);
+  border:1px solid rgba(59,130,246,.2);padding:4px 10px;
+  flex-shrink:0;
+}
+.sh-title{
+  font-family:var(--cond);font-size:clamp(26px,3.5vw,40px);
+  font-weight:700;letter-spacing:.3px;color:var(--t);
+  text-transform:uppercase;line-height:1;
+}
+.sh-title em{font-style:normal;color:var(--c1)}
+.sh-line{flex:1;height:1px;background:linear-gradient(90deg,var(--b),transparent)}
+
+/* ── HOW ── */
+.how-grid{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:0;
+  border:1px solid var(--b);
+}
+.hw{
+  padding:40px 32px;border-right:1px solid var(--b);
+  position:relative;overflow:hidden;
+}
+.hw:last-child{border-right:none}
+.hw::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:2px;
+  background:linear-gradient(90deg,var(--c1),transparent);
+  opacity:0;transition:opacity .3s;
+}
+.hw:hover::before{opacity:1}
+.hw-n{
+  font-family:var(--mono);font-size:10px;color:var(--c1);
+  letter-spacing:1px;margin-bottom:20px;display:block;
+}
+.hw-n span{
+  font-family:var(--cond);font-size:64px;font-weight:800;
+  color:rgba(59,130,246,.08);letter-spacing:-3px;
+  line-height:1;display:block;margin-bottom:-8px;
+}
+.hw h3{
+  font-family:var(--cond);font-size:20px;font-weight:700;
+  color:var(--t);letter-spacing:.3px;text-transform:uppercase;
+  margin-bottom:10px;
+}
+.hw p{font-size:13.5px;color:var(--t2);line-height:1.75;font-weight:300}
+.hw-badge{
+  display:inline-flex;align-items:center;gap:5px;
+  margin-top:18px;font-family:var(--mono);font-size:9px;
+  color:var(--gn);letter-spacing:.8px;text-transform:uppercase;
+  background:var(--gnb);border:1px solid rgba(34,216,122,.2);
+  padding:4px 10px;
+}
+
+/* ── WHY ── */
+.why-grid{
+  display:grid;grid-template-columns:repeat(2,1fr);gap:0;
+  border:1px solid var(--b);
+}
+.wc{
+  padding:36px 32px;border-right:1px solid var(--b);
+  border-bottom:1px solid var(--b);
+  transition:background .2s;
+}
+.wc:nth-child(2n){border-right:none}
+.wc:nth-child(n+3){border-bottom:none}
+.wc:hover{background:rgba(59,130,246,.03)}
+.wc-code{
+  font-family:var(--mono);font-size:10px;color:var(--c1);
+  letter-spacing:.8px;margin-bottom:12px;display:flex;
+  align-items:center;gap:8px;
+}
+.wc-code::after{content:'';flex:1;height:1px;background:var(--b)}
+.wc h3{
+  font-family:var(--cond);font-size:18px;font-weight:700;
+  color:var(--t);text-transform:uppercase;letter-spacing:.3px;
+  margin-bottom:10px;line-height:1.2;
+}
+.wc p{font-size:13.5px;color:var(--t2);line-height:1.75;font-weight:300}
+
+/* ── TESTIMONIALS ── */
+.testi-grid{
+  display:grid;grid-template-columns:repeat(2,1fr);
+  gap:0;border:1px solid var(--b);
+}
+.tc{
+  padding:36px 32px;border-right:1px solid var(--b);
+  border-bottom:1px solid var(--b);
+  transition:background .2s;
+}
+.tc:nth-child(2n){border-right:none}
+.tc:nth-child(n+3){border-bottom:none}
+.tc:hover{background:rgba(59,130,246,.03)}
+.tc-meta{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:18px;padding-bottom:14px;
+  border-bottom:1px solid var(--b);
+}
+.tc-who{display:flex;align-items:center;gap:12px}
+.tc-av{
+  width:38px;height:38px;background:var(--c3);
+  display:flex;align-items:center;justify-content:center;
+  font-family:var(--cond);font-size:14px;font-weight:700;
+  color:var(--t);flex-shrink:0;
+}
+.tc-name{font-family:var(--cond);font-size:15px;font-weight:700;color:var(--t);letter-spacing:.3px;text-transform:uppercase}
+.tc-role{font-family:var(--mono);font-size:9px;color:var(--t3);margin-top:2px;letter-spacing:.3px}
+.tc-rating{
+  font-family:var(--mono);font-size:18px;font-weight:500;
+  color:var(--gold);letter-spacing:-1px;
+}
+.tc-body{font-size:13.5px;color:var(--t2);line-height:1.8;font-weight:300}
+.tc-result{
+  display:inline-flex;align-items:center;gap:6px;
+  margin-top:16px;font-family:var(--mono);font-size:10px;
+  color:var(--gn);letter-spacing:.5px;text-transform:uppercase;
+  background:var(--gnb);border:1px solid rgba(34,216,122,.2);
+  padding:5px 12px;
+}
+
+/* ── SECURITY ── */
+.sec-band{
+  background:var(--bg3);
+  border-top:1px solid var(--b);border-bottom:1px solid var(--b);
+}
+.sg-grid{
+  max-width:1300px;margin:0 auto;padding:0 56px;
+  display:grid;grid-template-columns:repeat(4,1fr);
+  gap:0;
+}
+.sg{
+  padding:32px 24px;border-right:1px solid var(--b);
+}
+.sg:last-child{border-right:none}
+.sg-ico{
+  width:42px;height:42px;
+  background:rgba(59,130,246,.1);border:1px solid var(--b2);
+  display:flex;align-items:center;justify-content:center;
+  margin-bottom:14px;
+}
+.sg-ico svg{color:var(--c1)}
+.sg-label{
+  font-family:var(--mono);font-size:9px;color:var(--c1);
+  letter-spacing:1px;text-transform:uppercase;margin-bottom:8px;
+}
+.sg strong{display:block;font-family:var(--cond);font-size:14px;font-weight:700;color:var(--t);letter-spacing:.3px;margin-bottom:6px;text-transform:uppercase}
+.sg span{font-size:12px;color:var(--t2);line-height:1.65;font-weight:300}
+
+/* ── FAQ ── */
+.faq-wrap{display:grid;grid-template-columns:320px 1fr;gap:80px;align-items:start}
+.faq-left{position:sticky;top:72px}
+.faq-left .sh{margin-bottom:24px}
+.faq-left h2{
+  font-family:var(--cond);font-size:clamp(28px,3vw,40px);
+  font-weight:700;color:var(--t);text-transform:uppercase;
+  letter-spacing:.3px;line-height:1;margin-bottom:16px;
+}
+.faq-left h2 span{color:var(--c1)}
+.faq-left p{font-size:14px;color:var(--t2);line-height:1.75;font-weight:300;margin-bottom:28px}
+.btn-cta{
+  display:inline-flex;align-items:center;gap:10px;
+  background:var(--c1);color:#fff;
+  font-family:var(--cond);font-size:13px;font-weight:700;
+  letter-spacing:1px;text-transform:uppercase;
+  padding:14px 24px;text-decoration:none;
+  box-shadow:0 4px 20px rgba(59,130,246,.25);
+  transition:background .2s,box-shadow .2s;
+}
+.btn-cta:hover{background:var(--c2);box-shadow:0 8px 28px rgba(59,130,246,.35)}
+.faq-list{border:1px solid var(--b)}
+.fi{border-bottom:1px solid var(--b)}
+.fi:last-child{border-bottom:none}
+.fq{
+  width:100%;display:flex;justify-content:space-between;
+  align-items:center;padding:18px 20px;background:none;border:none;
+  color:var(--t);font-family:var(--cond);font-size:16px;font-weight:600;
+  cursor:pointer;text-align:left;gap:14px;
+  transition:background .15s,color .15s;
+  line-height:1.3;letter-spacing:.2px;text-transform:uppercase;
+}
+.fq:hover{background:rgba(59,130,246,.05);color:var(--c1)}
+.fi.open .fq{background:rgba(59,130,246,.08);color:var(--c1)}
+.fq-ico{
+  flex-shrink:0;font-family:var(--mono);font-size:16px;
+  color:var(--t3);transition:transform .25s,color .2s;
+}
+.fi.open .fq-ico{transform:rotate(45deg);color:var(--c1)}
+.fa{max-height:0;overflow:hidden;transition:max-height .35s ease,opacity .25s;opacity:0}
+.fa.open{max-height:300px;opacity:1}
+.fa-in{
+  padding:4px 20px 20px;font-size:14px;color:var(--t2);
+  line-height:1.8;font-weight:300;
+  border-top:1px solid var(--b);background:rgba(59,130,246,.03);
+}
+
+/* ── CTA ── */
+.cta-wrap{
+  background:var(--bg2);
+  border-top:2px solid var(--c1);
+  position:relative;z-index:10;overflow:hidden;
+}
+.cta-wrap::before{
+  content:'';position:absolute;
+  top:-200px;right:-200px;width:600px;height:600px;
+  background:radial-gradient(circle,rgba(59,130,246,.08) 0%,transparent 65%);
+}
+.cta-wrap::after{
+  content:'';position:absolute;inset:0;
+  background-image:
+    linear-gradient(rgba(59,130,246,.03) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(59,130,246,.03) 1px,transparent 1px);
+  background-size:40px 40px;
+}
+.cta-inner{
+  max-width:1300px;margin:0 auto;padding:80px 56px;
+  display:grid;grid-template-columns:1fr 400px;
+  gap:80px;align-items:center;position:relative;z-index:1;
+}
+.cta-left h2{
+  font-family:var(--cond);
+  font-size:clamp(38px,5.5vw,68px);
+  font-weight:800;color:var(--t);
+  line-height:.95;letter-spacing:-1px;
+  text-transform:uppercase;margin-bottom:18px;
+}
+.cta-left h2 span{color:var(--c1)}
+.cta-left p{font-size:15px;color:var(--t2);line-height:1.75;font-weight:300}
+.cta-form-box{
+  background:var(--bg);border:1px solid var(--b2);padding:32px;
+  box-shadow:0 16px 60px rgba(0,0,0,.4);
+}
+.cta-form-box .form-ref{margin-bottom:16px}
+
+/* ── FOOTER ── */
+footer{
+  background:var(--bg);border-top:1px solid var(--b);
+  padding:48px 56px 24px;position:relative;z-index:10;
+}
+.foot-inner{max-width:1300px;margin:0 auto}
+.foot-top{
+  display:grid;grid-template-columns:2fr 1fr 1fr 1fr;
+  gap:48px;padding-bottom:36px;
+  border-bottom:1px solid var(--b);margin-bottom:24px;
+}
+.foot-brand{
+  display:flex;align-items:center;gap:10px;margin-bottom:10px;
+}
+.foot-icon{
+  width:26px;height:26px;background:var(--c1);
+  display:flex;align-items:center;justify-content:center;
+}
+.foot-icon svg{color:#fff}
+.foot-name{
+  font-family:var(--cond);font-size:16px;font-weight:700;
+  color:var(--t);letter-spacing:.5px;text-transform:uppercase;
+}
+.foot-name span{color:var(--c1)}
+.foot-desc{font-family:var(--mono);font-size:11px;color:var(--t3);line-height:1.75;max-width:260px}
+.foot-col h4{
+  font-family:var(--mono);font-size:9px;font-weight:500;
+  letter-spacing:1.5px;text-transform:uppercase;
+  color:var(--c1);margin-bottom:14px;
+}
+.foot-col ul{list-style:none;display:flex;flex-direction:column;gap:9px}
+.foot-col ul a{text-decoration:none;font-size:13px;color:var(--t3);transition:color .15s;font-weight:300}
+.foot-col ul a:hover{color:var(--t)}
+.foot-bottom{
+  display:flex;justify-content:space-between;
+  align-items:flex-start;gap:24px;flex-wrap:wrap;
+}
+.foot-legal{font-family:var(--mono);font-size:10px;color:var(--t3);line-height:1.8;max-width:640px}
+.foot-legal strong{color:var(--t2)}
+.foot-sys{
+  font-family:var(--mono);font-size:10px;color:var(--t3);
+  text-align:right;flex-shrink:0;line-height:1.8;
+}
+.foot-sys span{color:var(--gn)}
+
+/* ── RESPONSIVE ── */
+@media(max-width:1080px){
+  nav,footer{padding-left:28px;padding-right:28px}
+  .hero{grid-template-columns:1fr}
+  .hero-right{padding:40px 28px}
+  .sec{padding:64px 28px}
+  .how-grid,.why-grid,.testi-grid{grid-template-columns:1fr 1fr}
+  .sg-grid{grid-template-columns:1fr 1fr;padding:0 28px}
+  .faq-wrap{grid-template-columns:1fr}
+  .faq-left{position:static}
+  .cta-inner{grid-template-columns:1fr;padding:56px 28px}
+  .foot-top{grid-template-columns:1fr 1fr}
+}
+@media(max-width:680px){
+  nav{padding:0 14px}
+  .nav-links{display:none}
+  .nav-tag{display:none}
+  .hero-left{padding:40px 20px}
+  .hero-right{padding:36px 20px}
+  .sec{padding:48px 18px}
+  footer{padding:36px 18px 20px}
+  .how-grid,.why-grid,.testi-grid,.sg-grid{grid-template-columns:1fr}
+  .f2{grid-template-columns:1fr}
+  .foot-top{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a href="#" class="nav-brand">
+    <div class="nav-icon">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>
+    </div>
+    <span class="nav-name">Natych <span>Quantox</span></span>
+    <span class="nav-tag">AI TRADING · v2.4</span>
+  </a>
+  <div class="nav-links">
+    <a href="#jak-dziala">Jak działa</a>
+    <a href="#opinie">Opinie</a>
+    <a href="#faq">FAQ</a>
+  </div>
+  <a href="#rejestracja" class="nav-cta">Zacznij bezpłatnie →</a>
+</nav>
+
+<!-- STATUS BAR + TICKER -->
+<div class="statusbar">
+  <div class="sb-live">
+    <div class="sb-live-dot"></div>
+    LIVE
+  </div>
+  <div class="ticker-inner">
+    <div class="t-track" id="tkr">
+      <div class="ti"><span class="tdot up"></span><b>BTC/USD</b>&nbsp;68,420 <span class="t-up">▲2.14%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>ETH/USD</b>&nbsp;3,512 <span class="t-up">▲1.87%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>WIG20</b>&nbsp;2,384 <span class="t-up">▲0.62%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>S&amp;P500</b>&nbsp;5,248 <span class="t-up">▲1.02%</span></div>
+      <div class="ti"><span class="tdot dn"></span><b>EUR/USD</b>&nbsp;1.0841 <span class="t-dn">▼0.15%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>XAU/USD</b>&nbsp;2,312 <span class="t-up">▲0.44%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>DAX</b>&nbsp;18,642 <span class="t-up">▲0.88%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>SOL/USD</b>&nbsp;182.60 <span class="t-up">▲3.21%</span></div>
+      <div class="ti"><span class="tdot dn"></span><b>WTI</b>&nbsp;78.42 <span class="t-dn">▼0.38%</span></div>
+      <div class="ti"><span class="tdot up"></span><b>USD/PLN</b>&nbsp;3.972 <span class="t-up">▲0.21%</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-left">
+    <div class="h-tag"><div class="h-tag-dot"></div>SYSTEM AKTYWNY · MARZEC 2026</div>
+    <h1>
+      Algorytm<br>
+      <span class="dim">który zarabia</span><br>
+      <span class="hi">za Ciebie</span>
+    </h1>
+    <p class="hero-lead">Przez całą dobę, gdy śpisz lub pracujesz, algorytm  Szlak Polorex przetwarza dziesiątki tysięcy danych rynkowych i podejmuje decyzje inwestycyjne szybciej niż jakikolwiek człowiek. Twoja rola? Zarejestrować się. Resztą zajmuje się maszyna.</p>
+    <div class="data-strip">
+      <div class="ds">
+        <div class="ds-label">ZYSK/DZIEŃ</div>
+        <div class="ds-val gn">1 000 PLN</div>
+      </div>
+      <div class="ds">
+        <div class="ds-label">ZWROT/ROK</div>
+        <div class="ds-val">+38%</div>
+      </div>
+      <div class="ds">
+        <div class="ds-label">UŻYTKOWNICY</div>
+        <div class="ds-val">50 000+</div>
+      </div>
+      <div class="ds">
+        <div class="ds-label">DOSTĘPNOŚĆ</div>
+        <div class="ds-val">99.98%</div>
+      </div>
+    </div>
+    <div class="hero-chips">
+      <div class="chip"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>ZERO WIEDZY O GIEŁDZIE</div>
+      <div class="chip"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>WYPŁATA W 24H</div>
+      <div class="chip"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>BLIK · PRZELEW · KARTA</div>
+    </div>
+  </div>
+
+  <div class="hero-right" id="rejestracja">
+    <div class="form-header">
+      <div class="form-ref">REJESTRACJA BEZPŁATNA</div>
+      <h2>Dołącz do systemu</h2>
+      <p>Konfiguracja w 3 minuty · bez karty kredytowej</p>
+    </div>
+    <form action="api.php" method="POST">
+      <div class="f2">
+        <div class="fg"><label>Imię</label><input type="text" name="name" required placeholder="Jan"></div>
+        <div class="fg"><label>Nazwisko</label><input type="text" name="lastname" required placeholder="Kowalski"></div>
+      </div>
+      <div class="fg"><label>Adres e-mail</label><input type="email" name="email" required placeholder="jan@email.pl"></div>
+      <div class="fg"><label>Numer telefonu</label><input type="tel" name="phone" required placeholder="+48 5XX XXX XXX"></div>
+      <button type="submit" class="btn-submit">Aktywuj konto bezpłatnie →</button>
+      <p class="form-note">Rejestrując się, akceptujesz <a href="#">Regulamin</a> i <a href="#">Politykę prywatności</a>.<br>Inwestowanie wiąże się z ryzykiem utraty kapitału.</p>
+      <input type="hidden" name="subid" value="{subid}">
+      <input type="hidden" name="phonecc" class="phonecc">
+      <input type="hidden" name="country" value="{country}">
+    </form>
+  </div>
+</div>
+
+<!-- HOW IT WORKS -->
+<div class="sec-stripe" id="jak-dziala">
+  <div class="sec">
+    <div class="sh">
+      <div class="sh-id">01 / JAK DZIAŁA</div>
+      <div class="sh-title">Trzy kroki do <em>automatycznych zysków</em></div>
+      <div class="sh-line"></div>
+    </div>
+    <div class="how-grid">
+      <div class="hw">
+        <div class="hw-n"><span>01</span>REJESTRACJA</div>
+        <h3>Zarejestruj konto</h3>
+        <p>Jeden formularz, pięć pól, trzy minuty. Rejestracja jest w stu procentach online — nie trzeba nigdzie jechać, nic drukować ani wysyłać pocztą. Weryfikacja tożsamości przez internet, identycznie jak w nowoczesnych aplikacjach bankowych.</p>
+        <div class="hw-badge">STATUS: BEZPŁATNE</div>
+      </div>
+      <div class="hw">
+        <div class="hw-n"><span>02</span>ZASILENIE</div>
+        <h3>Zasil portfel</h3>
+        <p>Przelew ekspresowy, BLIK albo karta debetowa — środki księgują się w kilka minut. Nie ma minimalnej kwoty inwestycji ani zablokowanego okresu. Możesz wyjść z inwestycji w każdej chwili i dostać pieniądze na konto już następnego dnia roboczego.</p>
+        <div class="hw-badge">WYPŁATA: 24H</div>
+      </div>
+      <div class="hw">
+        <div class="hw-n"><span>03</span>ALGORYTM</div>
+        <h3>System zarabia</h3>
+        <p>Od tej chwili nie musisz nic robić. Algorytm otwiera i zamyka pozycje, zarządza ryzykiem i optymalizuje portfel — non-stop, bez urlopów, bez błędów emocjonalnych. W panelu widzisz każdą transakcję w czasie rzeczywistym.</p>
+        <div class="hw-badge">AKTYWNOŚĆ: 24/7</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- WHY -->
+<div class="sec">
+  <div class="sh">
+    <div class="sh-id">02 / DLACZEGO MY</div>
+    <div class="sh-title">Fundament: <em>pełna przejrzystość</em></div>
+    <div class="sh-line"></div>
+  </div>
+  <div class="why-grid">
+    <div class="wc">
+      <div class="wc-code">FUND.SECURITY.01</div>
+      <h3>Segregacja środków</h3>
+      <p>Każda złotówka którą wpłacasz trafia na wydzielony rachunek powierniczy zarejestrowany wyłącznie na Ciebie. Nie ma żadnej możliwości żeby Twój kapitał pokrył koszty operacyjne spółki lub został użyty do czegokolwiek innego bez Twojej zgody.</p>
+    </div>
+    <div class="wc">
+      <div class="wc-code">FUND.COST.02</div>
+      <h3>Zero ukrytych opłat</h3>
+      <p>Nie pobieramy abonamentów, opłat za zarządzanie ani prowizji od przelewów. Jedyna opłata to mały procent od faktycznie wypracowanego zysku — naliczany po fakcie, nie z góry. Nie zarobiłeś? Nie zapłaciłeś nic.</p>
+    </div>
+    <div class="wc">
+      <div class="wc-code">FUND.SUPPORT.03</div>
+      <h3>Wsparcie 24/7 po polsku</h3>
+      <p>Infolinia, czat na żywo i e-mail obsługiwane przez prawdziwych specjalistów przez całą dobę, siedem dni w tygodniu — włącznie ze świętami. Odpowiadamy w minuty, nie w godziny. Bez botów. Bez automatycznych kolejek.</p>
+    </div>
+    <div class="wc">
+      <div class="wc-code">FUND.LIQUIDITY.04</div>
+      <h3>Wypłata bez blokad</h3>
+      <p>Inwestowanie nie powinno przypominać więzienia. U nas decyzja o wyjściu należy wyłącznie do Ciebie — zlecasz wypłatę przez panel, podajesz numer konta i czekasz do następnego dnia roboczego. Żadnych kar, żadnych opóźnień.</p>
+    </div>
+  </div>
+</div>
+
+<!-- TESTIMONIALS -->
+<div class="sec-stripe" id="opinie">
+  <div class="sec">
+    <div class="sh">
+      <div class="sh-id">03 / OPINIE</div>
+      <div class="sh-title">Prawdziwi użytkownicy, <em>weryfikowalne wyniki</em></div>
+      <div class="sh-line"></div>
+    </div>
+    <div class="testi-grid">
+      <div class="tc">
+        <div class="tc-meta">
+          <div class="tc-who">
+            <div class="tc-av">LB</div>
+            <div>
+              <div class="tc-name">Leszek Bąkowski</div>
+              <div class="tc-role">RZESZÓW · BYŁY KONTROLER FINANSOWY · 57 LAT</div>
+            </div>
+          </div>
+          <div class="tc-rating">5.0</div>
+        </div>
+        <p class="tc-body">Trzydzieści lat przepracowałem w kontrolingu — wiem jak czytać liczby i wiem kiedy ktoś próbuje mnie naciągnąć. Przed wpłatą poprosiłem o pełną dokumentację kosztową, przejrzałem historię transakcji z konta demo i sprawdziłem warunki wypłaty punkt po punkcie. Wszystko się zgadzało. Dziś jestem tu szesnasty miesiąc i żałuję tylko że nie zacząłem wcześniej.</p>
+        <div class="tc-result">▲ +1 280 PLN / DZIEŃ (ŚREDNIA)</div>
+      </div>
+      <div class="tc">
+        <div class="tc-meta">
+          <div class="tc-who">
+            <div class="tc-av">EZ</div>
+            <div>
+              <div class="tc-name">Elżbieta Zalewska</div>
+              <div class="tc-role">SZCZECIN · NAUCZYCIELKA MATEMATYKI · 49 LAT</div>
+            </div>
+          </div>
+          <div class="tc-rating">4.8</div>
+        </div>
+        <p class="tc-body">Uczę matematyki, więc procenty i stopy zwrotu to nie magia — po prostu liczby. Policzyłam: gdybym przez ostatnie trzy lata trzymała oszczędności na lokacie, miałabym 7% łącznie. Tu po ośmiu miesiącach jestem na wyraźnym plusie przy miesięcznych kosztach bliskich zeru. Matematyka jest prosta. Decyzja powinna być równie prosta.</p>
+        <div class="tc-result">▲ AKTYWNA OD 8 MIESIĘCY</div>
+      </div>
+      <div class="tc">
+        <div class="tc-meta">
+          <div class="tc-who">
+            <div class="tc-av">GN</div>
+            <div>
+              <div class="tc-name">Grzegorz Nawrocki</div>
+              <div class="tc-role">BIAŁYSTOK · WŁAŚCICIEL SKLEPU BUDOWLANEGO · 52 LATA</div>
+            </div>
+          </div>
+          <div class="tc-rating">4.7</div>
+        </div>
+        <p class="tc-body">Mam sklep budowlany — rozumiem jak działa marża i koszt kapitału, ale giełda zawsze była dla mnie obcym językiem.  Szlak Polorex sprawia że to nie ma znaczenia. Panel jest czytelny jak raport kasowy: wpłata, wyniki, wypłata. Zleciłem pierwszą wypłatę po tygodniu żeby sprawdzić czy faktycznie działa — przelew przyszedł następnego dnia rano.</p>
+        <div class="tc-result">▲ +960 PLN / DZIEŃ (ŚREDNIA)</div>
+      </div>
+      <div class="tc">
+        <div class="tc-meta">
+          <div class="tc-who">
+            <div class="tc-av">AO</div>
+            <div>
+              <div class="tc-name">Aleksandra Olejnik</div>
+              <div class="tc-role">LUBLIN · FARMACEUTKA · 36 LAT</div>
+            </div>
+          </div>
+          <div class="tc-rating">5.0</div>
+        </div>
+        <p class="tc-body">W farmacji jesteś nauczona żeby nigdy nie podejmować decyzji bez danych. Miesiąc na koncie demo, czytanie regulaminu z lupą, trzy rozmowy z supportem z listą pytań — i dopiero wpłata. Platforma odpowiedziała na każde pytanie uczciwie, łącznie z tym o ryzyku strat. To mnie przekonało bardziej niż jakiekolwiek obietnice wysokich zysków.</p>
+        <div class="tc-result">▲ AKTYWNA OD 10 MIESIĘCY</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SECURITY -->
+<div class="sec-band">
+  <div class="sg-grid">
+    <div class="sg">
+      <div class="sg-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div>
+      <div class="sg-label">SZYFROWANIE</div>
+      <strong>SSL 256-bit</strong>
+      <span>Każde połączenie i transakcja chronione szyfrowaniem bankowym.</span>
+    </div>
+    <div class="sg">
+      <div class="sg-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
+      <div class="sg-label">SEGREGACJA</div>
+      <strong>Rachunki powiernicze</strong>
+      <span>Środki klientów izolowane od majątku operacyjnego spółki.</span>
+    </div>
+    <div class="sg">
+      <div class="sg-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+      <div class="sg-label">AUTORYZACJA</div>
+      <strong>Weryfikacja 2FA</strong>
+      <span>Każde logowanie i wypłata chronione potwierdzeniem SMS.</span>
+    </div>
+    <div class="sg">
+      <div class="sg-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></div>
+      <div class="sg-label">MONITORING</div>
+      <strong>24/7 Non-stop</strong>
+      <span>Automatyczne systemy bezpieczeństwa aktywne przez całą dobę.</span>
+    </div>
+  </div>
+</div>
+
+<!-- FAQ -->
+<div class="sec" id="faq">
+  <div class="sh">
+    <div class="sh-id">04 / FAQ</div>
+    <div class="sh-title">Pytania i <em>odpowiedzi</em></div>
+    <div class="sh-line"></div>
+  </div>
+  <div class="faq-wrap">
+    <div class="faq-left">
+      <h2>Masz<br><span>pytania?</span><br>To dobrze.</h2>
+      <p>Odpowiadamy szczerze na wszystkie pytania — łącznie z tymi trudnymi, dotyczącymi ryzyka i ewentualnych strat.</p>
+      <a href="#rejestracja" class="btn-cta">
+        Zacznij bezpłatnie →
+      </a>
+    </div>
+    <div class="faq-list">
+      <div class="fi">
+        <button class="fq" onclick="tf(this)">Czy muszę znać się na inwestowaniu lub giełdzie?<span class="fq-ico">+</span></button>
+        <div class="fa"><div class="fa-in">Zupełnie nie. Platforma działa na zasadzie „ustaw i zapomnij" — wybierasz jeden z trzech profili ryzyka, zasilasz konto i algorytm przejmuje całą pracę. Nie musisz śledzić wykresów ani rozumieć co to futures. Konto demo pozwala obserwować każdą decyzję systemu przez dowolny czas, zanim zdecydujesz się na prawdziwe pieniądze.</div></div>
+      </div>
+      <div class="fi">
+        <button class="fq" onclick="tf(this)">Jak i kiedy mogę wypłacić pieniądze?<span class="fq-ico">+</span></button>
+        <div class="fa"><div class="fa-in">Zlecasz wypłatę z panelu jednym kliknięciem — o dowolnej porze, w dowolnym dniu tygodnia. Nie ma minimalnej kwoty wypłaty, nie ma opłat za wypłatę, nie ma żadnego okresu oczekiwania ani zamrożenia środków. Przelew trafia na Twoje konto bankowe w ciągu jednej doby roboczej.</div></div>
+      </div>
+      <div class="fi">
+        <button class="fq" onclick="tf(this)">Czy są jakieś ukryte opłaty lub prowizje?<span class="fq-ico">+</span></button>
+        <div class="fa"><div class="fa-in">Jedyna opłata jaka istnieje to mały procent od faktycznie wygenerowanego zysku — potrącany automatycznie dopiero po zarobku, nigdy z góry. Konto, rejestracja i konto demo są bezpłatne. Wpłata i wypłata są bezpłatne. Jeśli algorytm w danym miesiącu nie wypracuje zysku, nie płacisz absolutnie nic.</div></div>
+      </div>
+      <div class="fi">
+        <button class="fq" onclick="tf(this)">Kiedy zobaczę pierwsze wyniki?<span class="fq-ico">+</span></button>
+        <div class="fa"><div class="fa-in">Zaraz po zaksięgowaniu pierwszej wpłaty system startuje i realizuje pierwsze transakcje — zwykle jeszcze tego samego dnia. W panelu widzisz każdą operację na żywo. Rzetelną ocenę efektywności możesz wyrobić sobie po pełnym miesiącu, bo algorytm pracuje w cyklach i dostosowuje strategię do zmienności rynkowej.</div></div>
+      </div>
+      <div class="fi">
+        <button class="fq" onclick="tf(this)">Czy mogę stracić zainwestowane pieniądze?<span class="fq-ico">+</span></button>
+        <div class="fa"><div class="fa-in">Tak, i piszemy o tym wprost bo tak wymaga prawo i nasze sumienie. Żaden algorytm nie gwarantuje zysku — rynki finansowe są z natury zmienne. System stosuje automatyczne stop-lossy które ograniczają potencjalne straty, ale nie eliminują ryzyka całkowicie. Wpłacaj tylko tyle ile możesz stracić bez uszczerbku dla codziennego budżetu.</div></div>
+      </div>
+      <div class="fi">
+        <button class="fq" onclick="tf(this)">Czy mogę skontaktować się z prawdziwą osobą?<span class="fq-ico">+</span></button>
+        <div class="fa"><div class="fa-in">Tak — zawsze. Mamy trzy kanały kontaktu: telefon, czat i e-mail. Wszystkie obsługiwane przez ludzi, nie przez automaty. Działamy całą dobę, 365 dni w roku. Średni czas odpowiedzi przez czat to kilka minut. Przez telefon odbieramy natychmiast — żadnych kolejek IVR z wybieraniem cyfr.</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta-wrap">
+  <div class="cta-inner">
+    <div class="cta-left">
+      <h2>Zacznij<br>zarabiać<br><span>dziś w nocy.</span></h2>
+      <p>Algorytm pracuje niezależnie od tego czy jesteś przy komputerze, śpisz, jesteś w pracy czy na urlopie. 50 000 użytkowników w Polsce już to wie. Rejestracja zajmuje trzy minuty i nic nie kosztuje.</p>
+    </div>
+    <div class="cta-form-box">
+      <div class="form-ref" style="margin-bottom:16px">REJESTRACJA BEZPŁATNA</div>
+      <form action="api.php" method="POST">
+        <div class="f2">
+          <div class="fg"><label>Imię</label><input type="text" name="name" required placeholder="Jan"></div>
+          <div class="fg"><label>Nazwisko</label><input type="text" name="lastname" required placeholder="Kowalski"></div>
+        </div>
+        <div class="fg"><label>E-mail</label><input type="email" name="email" required placeholder="jan@email.pl"></div>
+        <div class="fg"><label>Telefon</label><input type="tel" name="phone" required placeholder="+48 5XX XXX XXX"></div>
+        <button type="submit" class="btn-submit">Aktywuj konto za darmo →</button>
+        <p class="form-note">Akceptujesz <a href="#">Regulamin</a> i <a href="#">Politykę prywatności</a>. Inwestowanie wiąże się z ryzykiem.</p>
+        <input type="hidden" name="subid" value="{subid}">
+        <input type="hidden" name="phonecc" class="phonecc">
+        <input type="hidden" name="country" value="{country}">
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-inner">
+    <div class="foot-top">
+      <div>
+        <div class="foot-brand">
+          <div class="foot-icon">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>
+          </div>
+          <div class="foot-name">Natych <span>Quantox</span></div>
+        </div>
+        <p class="foot-desc">Algorytmiczna platforma inwestycyjna oparta na sztucznej inteligencji. Bezpieczna, przejrzysta, dostępna dla każdego.</p>
+      </div>
+      <div class="foot-col">
+        <h4>PLATFORMA</h4>
+        <ul>
+          <li><a href="#">Jak działa</a></li>
+          <li><a href="#">Bezpieczeństwo</a></li>
+          <li><a href="#">Konto demo</a></li>
+          <li><a href="#">Cennik</a></li>
+        </ul>
+      </div>
+      <div class="foot-col">
+        <h4>FIRMA</h4>
+        <ul>
+          <li><a href="#">O nas</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Kontakt</a></li>
+          <li><a href="#">Kariera</a></li>
+        </ul>
+      </div>
+      <div class="foot-col">
+        <h4>PRAWNE</h4>
+        <ul>
+          <li><a href="#">Regulamin</a></li>
+          <li><a href="#">Polityka prywatności</a></li>
+          <li><a href="#">Cookies</a></li>
+          <li><a href="#">Ujawnienia ryzyka</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <p class="foot-legal">
+        © 2026  Szlak Polorex Ltd. Wszelkie prawa zastrzeżone.<br>
+        <strong>Ostrzeżenie o ryzyku:</strong> Inwestowanie w instrumenty finansowe wiąże się z ryzykiem utraty części lub całości zainwestowanego kapitału. Wyniki historyczne algorytmu nie stanowią gwarancji przyszłych zysków. Przed podjęciem decyzji inwestycyjnej zapoznaj się z dokumentami informacyjnymi.
+      </p>
+      <div class="foot-sys">
+         Szlak Polorex · AI TRADING PLATFORM<br>
+        SYSTEM STATUS: <span>OPERATIONAL</span><br>
+        LAST UPDATE: 2026-03-16 · 00:00 UTC
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput.min.js"></script>
+<script>
+const tk=document.getElementById('tkr');if(tk)tk.innerHTML+=tk.innerHTML;
+function tf(btn){
+  const fi=btn.closest('.fi'),fa=fi.querySelector('.fa'),o=fi.classList.contains('open');
+  document.querySelectorAll('.fi.open').forEach(f=>f.classList.remove('open'));
+  document.querySelectorAll('.fa.open').forEach(f=>f.classList.remove('open'));
+  if(!o){fi.classList.add('open');fa.classList.add('open');}
+}
+function intlTelSetGeoCode(c){document.querySelectorAll('input[name=country]').forEach(f=>f.value=c)}
+function intlTelSetPhoneCode(c){document.querySelectorAll('.phonecc').forEach(f=>f.value=c)}
+var ph=document.querySelectorAll('input[name=phone]');
+for(var i=0;i<ph.length;i++){
+  var iti=window.intlTelInput(ph[i],{
+    initialCountry:'pl',nationalMode:true,autoPlaceholder:'aggressive',
+    formatOnDisplay:true,separateDialCode:true,onlyCountries:['pl'],
+    utilsScript:'https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/utils.js'
+  });
+  var d=iti.getSelectedCountryData();
+  if(d.dialCode)intlTelSetPhoneCode(d.dialCode);
+  if(d.iso2)intlTelSetGeoCode(d.iso2);
+  ph[i].addEventListener('countrychange',function(e){
+    var x=window.intlTelInputGlobals.getInstance(e.target);
+    if(x){var g=x.getSelectedCountryData();intlTelSetPhoneCode(g.dialCode);intlTelSetGeoCode(g.iso2);}
+  });
+}
+document.querySelectorAll('a[href^="#"]').forEach(a=>{
+  a.addEventListener('click',e=>{
+    const t=document.querySelector(a.getAttribute('href'));
+    if(t){e.preventDefault();t.scrollIntoView({behavior:'smooth',block:'start'});}
+  });
+});
+</script>
+<style>.iti{position:relative;width:100%}</style>
+</body>
+</html>
